@@ -1,12 +1,35 @@
-## Hi there 👋
+# 🏋️‍♂️ Invicto
 
-<!--
+**Invicto** es una plataforma de software para la gestión de instituciones atléticas como gimnasios, clubes, boxes de CrossFit y academias deportivas.
 
-**Here are some ideas to get you started:**
+Ofrecemos herramientas simples y modernas para administrar socios, pagos, reservas y mucho más.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## ✨ Funcionalidades principales
+
+- Gestión de socios y membresías
+- Cobros, pagos y facturación
+- Reservas de clases, canchas y entrenadores
+- Reportes y estadísticas
+- Portal para usuarios
+
+---
+
+## ⚙️ Stack tecnológico
+
+- Frontend: -
+- Backend: -
+- Base de datos: -
+- Infraestructura: -
+
+---
+
+## 📬 Contacto
+
+📧 contacto@invicto.com  
+🌐 www.invicto.com _(próximamente)_
+
+---
+
+> Invicto — Software simple para instituciones fuertes 💪
